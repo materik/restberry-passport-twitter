@@ -33,6 +33,12 @@ Two new routes have been created to the User:
 - GET /login/twitter
 - GET /login/twitter/callback
 
+## Known issues
+
+You can't retrieve the email address from the Twitter API so right now it can't
+be matched with an already existing account. Since the email is a required field
+the email is set to the twitter username + '@restberry.com'.
+
 ## Run the tests
 
 The tests require you to have the node test app running on port 6000 and

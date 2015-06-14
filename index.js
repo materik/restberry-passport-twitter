@@ -66,7 +66,7 @@ RestberryPassportTwitter.prototype.enable = function(next) {
 RestberryPassportTwitter.prototype.findOrCreateUser = function(profile, next) {
     // TODO(materik):
     // * temp because I can get email from the callback
-    var email = profile.screen_name + '@twitter.com';
+    var email = profile.screen_name + '@restberry.com';
     var data = {
         email: email,
         ids: {
