@@ -1,0 +1,36 @@
+{
+    "author": {
+        "name": "Mattias Eriksson",
+        "email": "thematerik@gmail.com"
+    },
+    "bugs": {
+        "url": "https://github.com/materik/restberry-passport-twitter/issues"
+    },
+    "contributors": [
+        {
+            "name": "Mattias Eriksson",
+            "email": "thematerik@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "passport-twitter": "1.0.x",
+        "restberry-errors": "1.0.x",
+        "restberry-logger": "1.0.x",
+        "underscore": "1.8.x"
+    },
+    "description": "Passport-twitter wrapper for Restberry",
+    "homepage": "http://restberry.com",
+    "keywords": [
+        "passport",
+        "restberry",
+        "twitter"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "restberry-passport-twitter",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/materik/restberry-passport-twitter.git"
+    },
+    "version": "1.0.0"
+}
