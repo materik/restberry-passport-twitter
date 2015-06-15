@@ -3,7 +3,7 @@ Restberry-Passport-Twitter
 
 [![](https://img.shields.io/npm/v/restberry-passport-twitter.svg)](https://www.npmjs.com/package/restberry-passport-twitter) [![](https://img.shields.io/npm/dm/restberry-passport-twitter.svg)](https://www.npmjs.com/package/restberry-passport-twitter)
 
-Passport-twitter wrapper for Restberry.
+Restberry Passport wrapper for passport-twitter.
 
 ## Install
 

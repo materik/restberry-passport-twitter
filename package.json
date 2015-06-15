@@ -18,7 +18,7 @@
         "restberry-logger": "1.0.x",
         "underscore": "1.8.x"
     },
-    "description": "Passport-twitter wrapper for Restberry",
+    "description": "Restberry Passport wrapper for passport-twitter",
     "homepage": "http://restberry.com",
     "keywords": [
         "passport",
@@ -32,5 +32,5 @@
         "type": "git",
         "url": "https://github.com/materik/restberry-passport-twitter.git"
     },
-    "version": "1.0.1"
+    "version": "1.0.2"
 }
